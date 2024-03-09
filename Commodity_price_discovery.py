@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 27 10:46:15 2023
-
-@author: vitto
-"""
-
 ######### AUTHOR OF THE CODE: VITTORIO BALESTRIERI #################
 
 
